@@ -1,0 +1,3 @@
+/home/pospelov/programming/MyPerfectWorld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pospelov/programming/MyPerfectWorld/cmake-build-debug/CMakeFiles/MyPerfectWorld.dir
+/home/pospelov/programming/MyPerfectWorld/cmake-build-debug/CMakeFiles/edit_cache.dir
